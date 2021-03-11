@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Project
+        </title>
+
+        <style>
+body{
+
+    background-color: rgb(8, 217, 245);
+}
+
+
+        </style>
+    </head>
+    <body>
+        <h1>My Project</h1>
+<img src = "https://i0.wp.com/securityaffairs.co/wordpress/wp-content/uploads/2017/08/dohacker.jpg?fit=876%2C659&ssl=1" alt = "dog hacking" width="300">
+
+         <p>If you are here, you are probbably here because you want help coding,<br>
+             and if you are here for that thank you,<br>
+            for choosing me, in this website I will give you some references and guides</p>
+
+       <h3>This will provide you a link to Scratch:<a href = "https://scratch.mit.edu/" target = "_blank" >https://scratch.mit.edu/</a></h3>
+       <h3>This will provide you a link to some basic Javascript: <a href = "https://www.khanacademy.org/computing/computer-programming/programming" target = "_blank">https://www.khanacademy.org/computing/computer-programming/programming</a></h3>
+       <h3>This will provide you a link to a guide on Scratch: <a href = "https://youtu.be/6VDwXDhM4Io">https://youtu.be/6VDwXDhM4Io </a></h3>
+
+
+
+
+
+
+
+       <p>Here is a link to a program I made try and mess arund with it <a href = "https://scratch.mit.edu/projects/499711548/editor">https://scratch.mit.edu/projects/499711548/editor</a> <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        (lol)
+</p>
+       
+
+    </body>
+</html>
